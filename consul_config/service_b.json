@@ -1,0 +1,9 @@
+{
+  "service": {
+    "id": "service-b",
+    "name": "microservice",
+    "tags": ["B"],
+    "port": 5002,
+    "address": "127.0.0.1"
+  }
+}
